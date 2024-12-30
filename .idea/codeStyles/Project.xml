@@ -7,6 +7,9 @@
       <option name="BLANK_LINES_AROUND_BLOCK_WHEN_BRANCHES" value="1" />
       <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
     </JetCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+    </ScalaCodeStyleSettings>
     <XML>
       <option name="XML_TEXT_WRAP" value="0" />
     </XML>
